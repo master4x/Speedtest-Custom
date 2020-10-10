@@ -13,6 +13,8 @@ An embedded website for your SPEEDTEST CUSTOM™ by Ookla to run from GitHub wit
 
 5. Give the Speedtest a *custom subdomain* (Test URL) and enable HTTPS
 
+> Ookla does not allow *speedtest*.EXAMPLE.COM or *test*.EXAMPLE.COM
+
 6. Customize your Speedtest in the 'Interface' tab
 
 7. In the 'Servers' tab you can now select your own servers, if available
